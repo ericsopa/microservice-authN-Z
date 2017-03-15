@@ -77,3 +77,4 @@ Microservice | X |
 * [http://nordicapis.com/how-to-control-user-identity-within-microservices/](http://nordicapis.com/how-to-control-user-identity-within-microservices/)
 * [https://www.appsflyer.com/blog/how-we-solved-authentication-and-authorization-in-our-microservices-architecture/](https://www.appsflyer.com/blog/how-we-solved-authentication-and-authorization-in-our-microservices-architecture/)
 * [http://microservices.io/patterns/apigateway.html](http://microservices.io/patterns/apigateway.html)
+* [https://www.slideshare.net/Pivotal/an-authentication-and-authorization-architecture-for-a-microservices-world]{https://www.slideshare.net/Pivotal/an-authentication-and-authorization-architecture-for-a-microservices-world]
