@@ -69,8 +69,8 @@ Microservice | X |
 *	it does not make sense
 *	worst of both worlds
 *	no fine grained object permissions 
-•	error prone
-•	tedious repetitive authentication for consumer
+*	error prone
+*	tedious repetitive authentication for consumer
 
 ### links
 * [https://blog.andyet.com/2015/05/12/micro-services-user-info-and-auth](https://blog.andyet.com/2015/05/12/micro-services-user-info-and-auth)
