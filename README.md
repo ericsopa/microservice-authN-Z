@@ -1,5 +1,5 @@
 # microservice-authN-Z
-MIcroservice authN/Z permutations
+Microservice authN/Z permutations
 
 ### Approach 1
 Do authN/Z globally
